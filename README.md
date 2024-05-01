@@ -47,8 +47,6 @@ You can download the dataset here: [Zomato Bangalore Restaurants](https://www.ka
 ✔️ Sentiment Analysis of Reviews\
 ✔️ Recommendation System\
 
-## Contributing 💡
-If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/chiragsamal/Zomato/pulls) or [issue](https://github.com/chiragsamal/issue/issues).
 
 ### Refrences 👏
  - [Finding the best restaurants in Bangalore](https://www.kaggle.com/parthsharma5795/finding-the-best-restaurants-in-bangalore)
