@@ -47,9 +47,6 @@ You can download the dataset here: [Zomato Bangalore Restaurants](https://www.ka
 ✔️ Sentiment Analysis of Reviews\
 ✔️ Recommendation System\
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
-
 ## Contributing 💡
 If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/chiragsamal/Zomato/pulls) or [issue](https://github.com/chiragsamal/issue/issues).
 
